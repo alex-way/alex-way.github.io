@@ -1,0 +1,49 @@
+# Alexander Way
+
+## Work experience
+
+### Softcat plc - `Automation Engineer`
+
+#### _May '19 to Present_
+
+Collaborated with teams around the business to reduce and remove toil, improving processes and increase efficiency of the business using a range of technologies. Solutions were built with CICD pipelines and tested with a range of unit, integration and end to end tests.
+
+* Heavily utilised Ansible to achieve a wide range of automation tasks including deploying infrastructure, interacting and modifying on-premise network equipment and managing cloud services (AWS and Azure).
+* Developed custom Ansible modules where the standard library lacked or didn’t fit our purpose.
+* Managed, maintained and deployed several critical Linux servers which hosted our Ansible Tower cluster and docker swarm.
+* Designed and deployed multiple web applications written in Python, utilising Django, pytest and docker.
+* Migrated all Jenkins projects to utilise GitLab’s built in CICD Platform.
+* Contributed to and created a high standard of documentation for all projects.
+* Product owner for an internal automation tool, Swimlane.
+* Created a developer experience CLI tool for Swimlane.
+
+Technologies Used: **Docker**, **Python**, **Pytest**, **Django**, **TypeScript**, **git**, **Terraform**, **Azure**, **AWS**, **SQL**, **Ansible**, **Svelte**
+
+---
+
+### Softcat plc - `Service Desk Shift Lead`
+
+#### _December '18 to May '19_
+
+In addition to the previously listed roles and responsibilities I also:
+
+* Managed a small team during day shifts assuring they upheld our SLA’s and quality of work.
+* Reporting and analysing employee performance before acting or feeding back to managers.
+* Deal with customer escalations and assisting with managing high priority incidents where required.
+
+---
+
+### Softcat plc - `Service Desk Engineer`
+
+#### _September '15 to December '18_
+
+Description
+
+* Using a ticketing system to manage various incidents, requests and changes covering a wide range of services and technologies.
+* Used various monitoring systems to ensure uptime of services and systems.
+* Adhered to our SLA's to ensure we're meeting customer expectations.
+* Identify and resolve issues with both client and server software/hardware.
+
+## Education and Qualifications
+
+## Hobbies and Interests
