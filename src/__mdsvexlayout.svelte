@@ -13,10 +13,12 @@
   import em from '$lib/components/cv/components/base/em.svelte';
   import strong from '$lib/components/cv/components/base/strong.svelte';
   import hr from '$lib/components/cv/components/base/hr.svelte';
+  import td from '$lib/components/cv/components/base/td.svelte';
+  import table from '$lib/components/cv/components/base/table.svelte';
 
-  export { h1, h2, h3, h4, h5, h6, p, li, ul, a, code, em, strong, hr };
+  export { h1, h2, h3, h4, h5, h6, p, li, ul, a, code, em, strong, hr, td, table };
 </script>
 
-<div class="max-w-2xl mx-auto selection:bg-primary-200">
+<div class="max-w-2xl mx-auto selection:bg-primary-200 py-4">
   <slot />
 </div>
