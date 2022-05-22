@@ -22,7 +22,7 @@ Recently I was seconded to an external web development consultancy to further pr
 * Developed a DX CLI tool for facilitating change replication between environments
 * IaC, configuration management and policy enforcement via Ansible playbooks
 * Created Ansible modules to perform functions where the standard library lacked
-* Women in Business Working Group Member 👩
+* Women in Business Working Group Member
 * Lead developer involved in launching a donation platform for one of Softcat's charities
 * Released an internal mentoring product with ~150 employee uptake
 * Deployed, managed and maintained critical Linux servers which hosted our Ansible Tower cluster, Docker Swarm and live web apps
