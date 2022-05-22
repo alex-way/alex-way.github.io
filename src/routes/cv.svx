@@ -5,10 +5,8 @@
 </div>
 
 An Automation Engineer with experience in designing and delivering high quality automation solutions.
-I progressed my web development and general automation skills primarily through self learning both in and out my roles over the years.
-`X is experienced in [insert previous experience] through work with X. His/her other strengths are [insert strengths and skills].
-I would love to work for an organisation that values the opportunity for their employees to collaborate with others.
-A keen interest in knowledge transfer between.`
+I progressed my web development and general automation skills through my desire to always be learning and improving myself.
+My passion in life is to help improve people's lives through simplifying monotonous tasks.
 
 ## Work experience
 
@@ -20,14 +18,15 @@ Worked with teams around the business to reduce and remove toil, improving proce
 Solutions were built with automated build, test and release pipelines to allow fast development and release of high quality software.
 Recently I was seconded to an external web development consultancy to further progress my web development skills and act as a bridge between the businesses to simplify the handover process when the project concludes.
 
-* Product owner for our internal automation platform, Swimlane
+* Product owner of an internal automation platform, Swimlane
 * Developed a DX CLI tool for facilitating change replication between environments
 * IaC, configuration management and policy enforcement via Ansible playbooks
 * Created Ansible modules to perform functions where the standard library lacked
 * Women in Business Working Group Member 👩
-* Released an internal mentoring application with ~150 employee uptake
-* Managed, maintained and deployed critical Linux servers which hosted our Ansible Tower cluster, docker swarm and deployed web applications
-* Designed and deployed multiple dockerised web applications written in Python, using Django and pytest
+* Lead developer involved in launching a donation platform for one of Softcat's charities
+* Released an internal mentoring product with ~150 employee uptake
+* Deployed, managed and maintained critical Linux servers which hosted our Ansible Tower cluster, Docker Swarm and live web apps
+* Designed and deployed numerous dockerised web applications written in Python using Django and pytest
 * Migrated all Jenkins pipelines to GitLab
 
 Technologies Used: **Python**, **Mypy**, **TypeScript**, **Svelte**, **git**, **GitHub**, **GitLab**, **Linux**, **Docker**, **Azure**, **AWS**, **Ansible**, **Terraform**, **MSSQL**, **MongoDB**
@@ -43,9 +42,9 @@ Technologies Used: **Python**, **Mypy**, **TypeScript**, **Svelte**, **git**, **
 Transitioned into a newly created Shift Lead role following consistent performance and understanding of key business processes.
 I was responsible for maintaining team performance throughout the day and overseeing customer escalations in addition to my previously listed responsibilities.
 
-* Managed a small team during day shifts assuring they upheld our SLA’s and quality of work
+* Managed a team during day shifts assuring they upheld our SLA’s and quality of work
+* Oversaw customer escalations and assisted with managing high priority incidents
 * Reporting and analysing employee performance before acting or feeding back to managers
-* Oversee customer escalations and assist with managing high priority incidents
 
 ---
 
@@ -54,14 +53,13 @@ I was responsible for maintaining team performance throughout the day and overse
 #### _September '15 to December '18_
 
 Responsible for 1<sup>st</sup> and 2<sup>nd</sup> line support of IT related issues within our Managed Services division.
-Acting as both an escalation point and working with domain experts to work towards resolution for end users and businesses alike.
+Acting as both an escalation point and working with domain experts to implement immediate resolution and permanent solutions for internal and external customers.
 
 * Ticket management of incidents, requests and changes covering a wide range of services and technologies
 * Knowledge transfer from domain specific experts to reduce MTTR
 * Contributed to our knowledge base with processes and solutions to recurring issues
 * Met customer expectations by prioritising tickets to keep within our agreed SLA
 * Responded to various monitoring system alerts to ensure uptime of critical services
-* Identifed and resolved issues with both client and server software/hardware
 * Implemented changes to key infrastructure under strict change control processes
 
 ## Education and Qualifications
@@ -74,5 +72,5 @@ Acting as both an escalation point and working with domain experts to work towar
 
 ## Hobbies and Interests
 
-When I'm not at work I love to get out where I can, whether that's on my motorbike for a ride around, or getting out on the water for a paddle around in a kayak.
-If the weathers not looking as bright I like to play around with emerging technologies and see how I can fit them into my day to day work.
+When I'm not at work I love to get outside where I can, whether that's on my motorbike for a trip to a local cafe, or getting out on the water for a paddle around in a kayak.
+If the weathers not looking as bright I like to try out emerging technologies and see how I can fit them into my day to day work.
