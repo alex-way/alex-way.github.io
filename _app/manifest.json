@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-8f8ba72e.js",
+    "file": "start-0b8f767f.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -34,12 +34,15 @@
     ]
   },
   "src/routes/index.svx": {
-    "file": "pages/index.svx-af375e95.js",
+    "file": "pages/index.svx-bb6b1fdb.js",
     "src": "src/routes/index.svx",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-98f27f1d.js"
+    ],
+    "assets": [
+      "assets/waya_square-1bf5882e.jpg"
     ]
   },
   "_index-98f27f1d.js": {
