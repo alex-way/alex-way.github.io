@@ -1,7 +1,11 @@
+<script>
+  import image from '$static/waya_square.jpg';
+</script>
+
 # Alexander Way
 
 <div class="border-primary-400 border-r-2 h-28 float-left mr-4 pr-4">
-<img src="/waya_square.jpg" class="rounded-full w-28 h-28 float-left" alt="Profile Picture" />
+<img src={image} class="rounded-full w-28 h-28 float-left" alt="Profile Picture" />
 </div>
 
 An Automation Engineer with experience in designing and delivering high quality automation solutions.

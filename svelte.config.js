@@ -1,3 +1,4 @@
+import path from 'path';
 import { mdsvex } from 'mdsvex';
 import mdsvexConfig from './mdsvex.config.js';
 import adapter from '@sveltejs/adapter-static';
@@ -19,7 +20,14 @@ const config = {
     paths: {
       base: dev ? '' : '/alex-way.github.io'
     },
-    prerender: { default: true }
+    prerender: { default: true },
+    vite: {
+      resolve: {
+        alias: {
+          $static: path.resolve('./static')
+        }
+      }
+    }
   }
 };
 
